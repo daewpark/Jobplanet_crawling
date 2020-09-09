@@ -9,4 +9,3 @@ with sqlite3.connect ('jobplanet.db') as conn :
 
 
 # 웹크롤링을 위한 준비
-
